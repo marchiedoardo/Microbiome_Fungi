@@ -32,6 +32,8 @@ The code was written and tested in **Python 3.11.9** and **R 4.4.2**. The follow
 - `ggplot2` 3.5.1 
 - `readxl` 1.4.3  
 
+## Running jupyter notebooks with R kernel
+
 To run notebooks that use the R kernel, you need to have R installed.
 
 - **On Windows or macOS**:  
