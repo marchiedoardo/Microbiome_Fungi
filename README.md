@@ -1,5 +1,7 @@
 # Microbiome_Fungi
 
+Codes and Data to reproduce the results of "Fungal Communities as Indicators of Soil Health: Land-Use and Climate Effects in Mediterranean and Semi-Arid Agroecosystems” by Y. Steinberg et al. (submitted)
+
 The repository contains:
 - `SoilHealth-Fungi_mod.xlsx` -> complete raw dataset
 - `pca_rda.ipynb` -> jupyter notebook (in R) that performs PCA and RDA analysis on the phyla abundances
