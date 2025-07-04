@@ -52,3 +52,5 @@ In R or RStudio:
 install.packages("IRkernel")
 IRkernel::installspec()  # registers the R kernel with Jupyter
 ```
+
+Finally, the notebook can be opened in Jupyter Notebook or Jupyter Lab and run after selecting the R kernel (that should be now available).
